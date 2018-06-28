@@ -8,7 +8,8 @@ $('#submit-form').on('click', function(e) {
     method: "POST",
     dataType: "json",
     data: $form.serializeObject()
-  }).success(
-    // do something
+  }).success(function(data) {
+    $form[0].reset();
+  }
   );
 })
