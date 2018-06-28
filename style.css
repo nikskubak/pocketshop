@@ -496,7 +496,7 @@ body.home6 div#sticky-wrapper.is-sticky .mainmenu ul li a:hover,
 .blog-page div#sticky-wrapper.is-sticky .header-area .mainmenu ul li.active a,
 .preview-hero a:hover,
 .single-preview:hover h4 a {
-	color: #79c131;
+	color: #245d96;
 }
 
 .home1-theme-bg,
@@ -565,7 +565,7 @@ div#sticky-wrapper.is-sticky .header-area:after,
 
 .featured-content-color,
 .featured-single-text p {
-	color: #bdf8a3;
+	color: #acd5f5;
 }
 
 .screen-slide-color,
@@ -725,7 +725,7 @@ span.blog-search-bar input[type="search"] {
 .contact-form form input[type="text"],
 .contact-form form input[type="email"],
 .contact-form form textarea {
-	background: #6eb648;
+	background: #1f5a88;
 }
 
 .bg-white,
@@ -1004,8 +1004,8 @@ a.header-btn {
 	-webkit-transition: .3s;
 	transition: .3s;
 	border-radius: 3px;
-	background-image: -webkit-linear-gradient( 0deg, rgb(150, 210, 80) 0%, rgb(43, 191, 49) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(150, 210, 80) 0%, rgb(43, 191, 49) 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);
 }
 
 
@@ -1021,8 +1021,8 @@ a.header-btn:hover {
 	/*background: url(assets/svg/home1-download-btn-hover.svg);*/
 	padding: 14px 22px;
 	border-radius: 3px;
-	background-image: -webkit-linear-gradient( 0deg, rgb(43, 191, 49) 0%, rgb(150, 210, 80) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(43, 191, 49) 0%, rgb(150, 210, 80) 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(25,87,135) 0%, rgb(15,56,86) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);
 }
 
 .mainmenu ul {
@@ -1392,9 +1392,8 @@ ul.drop-menu li a:hover {
 body.home1 .about-single-item:hover h4,
 body.home5 .about-single-item:hover h4,
 body.home6 .about-single-item:hover h4 {
-	background: -webkit-linear-gradient(left, #98d058 0%, #38be3c 70%);
-	background: linear-gradient(to right, #98d058 0%, #38be3c 70%);
-	-webkit-background-clip: text;
+background-image: -webkit-linear-gradient( 0deg, rgb(25,87,135) 0%, rgb(15,56,86) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
 
@@ -1925,7 +1924,7 @@ body.home3 .get-app-right {
 
 .single-pricing.c-active a.price-btn {
 	background: #fff;
-	color: #79c131;
+	color: #195686;
 }
 
 body.home1 .single-pricing.c-active a.price-btn:hover,
@@ -1940,7 +1939,7 @@ body.home1 .single-pricing:hover a.price-btn,
 body.home5 .single-pricing:hover a.price-btn,
 body.home6 .single-pricing:hover a.price-btn {
 	background: #fff;
-	color: #79c131;
+	color: #195686;
 }
 
 body.home1 .single-pricing a.price-btn:hover,
@@ -2009,8 +2008,8 @@ body.home6 .single-pricing a.price-btn:hover {
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
 	border-radius: 8px;
-	background-image: -webkit-linear-gradient(-90deg, #96d250 0%, #61c941 60%, #2bbf31 100%);
-	background-image: -ms-linear-gradient(-90deg, #96d250 0%, #61c941 60%, #2bbf31 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(25,87,135) 0%, rgb(15,56,86) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);
 	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.15);
 }
 
@@ -2368,9 +2367,8 @@ a.single-counter:after {
 	width: 100%;
 	content: "";
 	z-index: -1;
-	background-image: -webkit-linear-gradient(0deg, #96d250 0%, #61c941 60%, #2bbf31 100%);
-	background-image: -ms-linear-gradient(0deg, #96d250 0%, #61c941 60%, #2bbf31 100%);
-}
+background-image: -webkit-linear-gradient( 0deg, rgb(25,87,135) 0%, rgb(15,56,86) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);}
 
 .contact-form form input[type="text"],
 .contact-form form input[type="email"],
@@ -3346,8 +3344,8 @@ body.home3 .screenshot-slide,
 .counter-area.cta3:after,
 .video-area.cta3:before,
 .contact-area.cta3:after {
-	background-image: -webkit-linear-gradient(0deg, #9d50bb 0%, #864cb3 60%, #6e48aa 100%);
-	background-image: -ms-linear-gradient(0deg, #9d50bb 0%, #864cb3 60%, #6e48aa 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(25,87,135) 0%, rgb(15,56,86) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(15,56,86) 0%, rgb(25,87,135) 100%);
 }
 
 .counter-area.cta3 a.single-counter:hover {

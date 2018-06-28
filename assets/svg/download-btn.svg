@@ -1,11 +1,11 @@
-<svg 
+<svg
  xmlns="http://www.w3.org/2000/svg"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  width="186px" height="56px">
 <defs>
 <linearGradient id="PSgrad_0" x1="0%" x2="100%" y1="0%" y2="0%">
-  <stop offset="0%" stop-color="rgb(150,210,80)" stop-opacity="1" />
-  <stop offset="100%" stop-color="rgb(43,191,49)" stop-opacity="1" />
+  <stop offset="0%" stop-color="rgb(25,87,135)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(15,56,86)" stop-opacity="1" />
 </linearGradient>
 
 </defs>

@@ -162,7 +162,7 @@
         }
 
         /*====  one page js active =====*/
-        $('.mainmenu > ul#nav > li > a, .preview-hero a.view-demo').click(function() {
+        $('#buy, .footer-menu > ul#footer-list > li > a, .mainmenu > ul#nav > li > a, .preview-hero a.view-demo').click(function() {
             //Toggle Class
             $(".active").removeClass("active");
             $(this).closest('li').addClass("active");
